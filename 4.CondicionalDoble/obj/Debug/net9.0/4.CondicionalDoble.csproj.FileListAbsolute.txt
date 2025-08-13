@@ -1,0 +1,15 @@
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\bin\Debug\net9.0\4.CondicionalDoble.exe
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\bin\Debug\net9.0\4.CondicionalDoble.deps.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\bin\Debug\net9.0\4.CondicionalDoble.runtimeconfig.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\bin\Debug\net9.0\4.CondicionalDoble.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\bin\Debug\net9.0\4.CondicionalDoble.pdb
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.AssemblyInfoInputs.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.AssemblyInfo.cs
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.csproj.CoreCompileInputs.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.sourcelink.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\refint\4.CondicionalDoble.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.pdb
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\4.CondicionalDoble.genruntimeconfig.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\4.CondicionalDoble\obj\Debug\net9.0\ref\4.CondicionalDoble.dll
