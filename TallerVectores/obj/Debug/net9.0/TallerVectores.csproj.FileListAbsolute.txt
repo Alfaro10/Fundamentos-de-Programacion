@@ -1,0 +1,15 @@
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\bin\Debug\net9.0\TallerVectores.exe
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\bin\Debug\net9.0\TallerVectores.deps.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\bin\Debug\net9.0\TallerVectores.runtimeconfig.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\bin\Debug\net9.0\TallerVectores.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\bin\Debug\net9.0\TallerVectores.pdb
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.AssemblyInfoInputs.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.AssemblyInfo.cs
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.sourcelink.json
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\refint\TallerVectores.dll
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.pdb
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\TallerVectores.genruntimeconfig.cache
+C:\Users\Alfaro\OneDrive\Escritorio\Alfaro\TallerVectores\obj\Debug\net9.0\ref\TallerVectores.dll
